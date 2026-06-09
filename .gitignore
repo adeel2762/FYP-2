@@ -16,3 +16,13 @@ db.sqlite3
 IDS/IDS/myIDS/db.sqlite3
 .env
 *.log
+
+# Ignore nested virtualenvs and compiled artifacts anywhere
+**/venv/
+**/.venv/
+**/__pycache__/
+
+# Ignore model binaries and data
+**/models/*.keras
+**/models/*.h5
+**/*.sqlite3
