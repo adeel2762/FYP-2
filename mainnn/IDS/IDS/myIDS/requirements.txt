@@ -1,0 +1,12 @@
+Django>=6.0,<7.0
+gunicorn
+dj-database-url
+psycopg2-binary
+whitenoise
+python-dotenv
+joblib
+numpy
+pandas
+# Optional ML/dependency packages (install if using model features)
+# tensorflow
+# scapy
