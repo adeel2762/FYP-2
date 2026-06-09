@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IDS Project (FYP-2)
 
 Professional, deployable packaging of the IDS project (frontend + backend).
@@ -71,6 +70,3 @@ Need me to push?
 
 Contact
 - If you want, I can also add comments to key backend files and clean settings where secrets are present.
-=======
-# FYP-2
->>>>>>> dbf53a5e341b96155c3466515e14f51e3197b6e6
